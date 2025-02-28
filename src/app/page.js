@@ -50,7 +50,7 @@ export default function Home() {
       
       <section className="w-full max-w-5xl mt-8 bg-gray-800 shadow-md p-6 rounded-lg">
         <h2 className="text-2xl font-semibold text-purple-300">What Our Clients Say</h2>
-        <p className="text-gray-300 mt-2 italic"> &#34; SuperNova honestly a lame name for a company! &#34; - Happy Client</p>
+        <p className="text-gray-300 mt-2 italic"> &#34; SuperNova honestly a lame name for a company! &#34; - Content Client</p>
       </section>
       
       <footer className="w-full max-w-5xl bg-gray-800 shadow-md p-6 rounded-lg mt-8 text-center">
