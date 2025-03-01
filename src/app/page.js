@@ -7,7 +7,7 @@ export default function Home() {
     <div className="min-h-screen bg-gray-900 text-gray-100 flex flex-col items-center p-6">
       <header className="w-full max-w-5xl bg-gray-800 shadow-md p-8 rounded-lg text-center">
         <h1 className="text-5xl font-bold text-purple-400">SuperNova Solutions</h1>
-        <p className="text-gray-300 mt-3 text-lg">Innovative Tech for a Better Future</p>
+        <p className="text-gray-300 mt-3 text-lg">Innovative Tech for a Working Future</p>
       </header>
       
       <section className="w-full max-w-5xl grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
