@@ -22,7 +22,7 @@ export default function Home() {
         <div className="bg-gray-800 shadow-md p-6 rounded-lg">
           <h2 className="text-2xl font-semibold text-purple-300">Why Choose Us?</h2>
           <ul className="mt-3 space-y-2">
-            <li className="text-gray-300 bg-purple-700 p-3 rounded">Expert Engineers & Developers</li>
+            <li className="text-gray-300 bg-purple-700 p-3 rounded">The Best Expert Engineers & Developers</li>
             <li className="text-gray-300 bg-purple-700 p-3 rounded">Tailored Solutions for Every Business</li>
             <li className="text-gray-300 bg-purple-700 p-3 rounded">24/7 Customer Support</li>
             <li className="text-gray-300 bg-purple-700 p-3 rounded">Scalable & Future-Proof Technology</li>
