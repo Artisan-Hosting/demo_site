@@ -12,7 +12,7 @@ export default function Home() {
       
       <section className="w-full max-w-5xl grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
         <div className="bg-gray-800 shadow-md p-6 rounded-lg">
-          <h2 className="text-2xl font-semibold text-purple-300">About Us</h2>
+          <h2 className="text-2xl font-semibold text-purple-300">About THE BIZ</h2>
           <p className="text-gray-300 mt-2">
             SuperNova Solutions is dedicated to delivering cutting-edge technology
             solutions to businesses of all sizes. From custom software development
