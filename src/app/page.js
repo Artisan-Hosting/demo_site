@@ -54,7 +54,7 @@ export default function Home() {
       </section>
       
       <footer className="w-full max-w-5xl bg-gray-800 shadow-md p-6 rounded-lg mt-8 text-center">
-        <p className="text-gray-300">Contact us perhaps <Link href="mailto:contact@SuperNova.com" className="text-purple-400">contact@SuperNova.com</Link></p>
+        <p className="text-gray-300">You will contact us <Link href="mailto:contact@SuperNova.com" className="text-purple-400">contact@SuperNova.com</Link></p>
       </footer>
     </div>
   );
