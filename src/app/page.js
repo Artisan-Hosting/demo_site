@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gray-900 text-gray-100 flex flex-col items-center p-6">
       <header className="w-full max-w-5xl bg-gray-800 shadow-md p-8 rounded-lg text-center">
-        <h1 className="text-5xl font-bold text-purple-400">SuperNova Solutions</h1>
+        <h1 className="text-5xl font-bold text-purple-400">Things s</h1>
         <p className="text-gray-300 mt-3 text-lg">Innovative Tech for a Working Future</p>
       </header>
       
@@ -45,6 +45,7 @@ export default function Home() {
             <h3 className="font-semibold text-xl text-gray-100">AI & ML</h3>
             <p className="text-gray-300 mt-2">Machine learning solutions for data-driven insights.</p>
           </div>
+          <h3 className="font-semibold text-xl text-gray-100">Blaze was here</h3>
         </div>
       </section>
       
